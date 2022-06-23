@@ -2,10 +2,10 @@
 - 👀 I’m interested in Astronomy, Physics and Data Science.
 - 🌱 I’m currently a Master of Science in Astronomy student at Universidad de Chile.
 - 💞️ I’m looking to collaborate on high-redshift surveys, specially in Lyman alpha and [OIII] emitters.
-- 📫 How to reach me: vdonaire@das.uchile.cl
+- 📫 How to reach me: vicente.aguilerae@gmail.com
 
 - 👋 Hola, Soy Vicente Aguilera (@aguilerav)
 - 👀 Estoy interesado en Astronomía, Física y Ciencia de datos.
 - 🌱 Actualmente soy estudiante de Master en Ciencias con mención Astronomía en la Universidad de Chile.
 - 💞️ Estoy buscando colaborar en los estudios de galaxias a alto redshift, especialmente en emisores de Lyman alpha y [OIII]
-- 📫 Como contactarme: vdonaire@das.uchile.cl
+- 📫 Como contactarme: vicente.aguilerae@gmail.com
