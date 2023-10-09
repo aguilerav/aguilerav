@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vicente Aguilera</h1>
-- 👀 I’m currently working at [Universidad de Chile](https://das.uchile.cl/). on customer loyalty.
+
+- 👀 I’m currently working at [Karrott Engagement](https://karrott.cl/) on customer loyalty.
 
 - 🔭 I’m currently a Master of Science in Astronomy student at [Universidad de Chile](https://das.uchile.cl/).
 
