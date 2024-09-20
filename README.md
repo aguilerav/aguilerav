@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vicente Aguilera</h1>
 
-- 👀 I’m currently working at [Karrott Engagement](https://karrott.cl/) on customer loyalty.
+- 👀 I’m currently working at [Brain Food](https://brainfood.cl/) as Data Scientist.
 
-- 🔭 I’m currently a Master of Science in Astronomy student at [Universidad de Chile](https://das.uchile.cl/).
+- 🔭 I’m a Master of Science in Astronomy graduate at [Universidad de Chile](https://das.uchile.cl/).
 
-- 🌱 I’m currently learning **Docker and AWS**
+- 🌱 I’m currently learning **Computer Vision and Image Processing**
 
-- 👯 I’m looking to collaborate on **high redshift galaxies and implementation of machine learning algorithms**
+- 👯 I’m looking to collaborate on **high redshift galaxies observations and implementation of machine learning algorithms**
 
 - 📫 How to reach me **vicente.aguilerae@gmail.com**
 
