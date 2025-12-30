@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vicente Aguilera</h1>
 
-- 👀 I’m currently working at [Brain Food](https://brainfood.cl/) as Data Scientist.
+- 👀 I’m currently working at [Artefact](https://www.artefact.com/) as Data Scientist Senior.
 
 - 🔭 I’m a Master of Science in Astronomy graduate at [Universidad de Chile](https://das.uchile.cl/).
 
 - 🌱 I’m currently learning **Computer Vision and Image Processing**
-
-- 👯 I’m looking to collaborate on **high redshift galaxies observations and implementation of machine learning algorithms**
 
 - 📫 How to reach me **vicente.aguilerae@gmail.com**
 
